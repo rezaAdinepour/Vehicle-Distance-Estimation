@@ -1,4 +1,4 @@
-# Car Distance Estimation
+# Vehicle Distance Estimation
 In this project we wrote a code to estimate the distance of moving cars.
 
 I use YOLO-V8 pretrained model for detect and recognition of some objects.
@@ -7,7 +7,7 @@ I use YOLO-V8 pretrained model for detect and recognition of some objects.
 ## How Run?
 clone the repository
 ```
-$ git clone https://github.com/rezaAdinepour/Car-Distance-Estimation.git
+$ git clone https://github.com/rezaAdinepour/Vehicle-Distance-Estimation.git
 ```
 run the following command in your Terminal to install the libraries required
 ```
