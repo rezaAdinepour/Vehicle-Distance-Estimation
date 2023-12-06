@@ -1,5 +1,7 @@
 # Car Distance Estimation
-In this project we wrote a code to estimate the distance of moving cars
+In this project we wrote a code to estimate the distance of moving cars.
+
+I use YOLO-V8 pretrained model for detect and recognition of some objects.
 
 
 ## How Run?
