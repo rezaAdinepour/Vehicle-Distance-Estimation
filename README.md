@@ -19,4 +19,4 @@ $ cd Codes/python3 main.py
 ```
 
 ## Result
-![image](Result/Result.gif)
+![image](Results/Result.gif)
