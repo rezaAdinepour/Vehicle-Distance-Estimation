@@ -1,12 +1,13 @@
 # Vehicle Distance Estimation
-In this project we wrote a code to estimate the distance of moving cars.
-
-I use YOLO-V8 pretrained model for detect and recognition of some objects.
 
 ![GitHub watchers](https://img.shields.io/github/watchers/rezaAdinepour/Vehicle-Distance-Estimation)
 ![GitHub top language](https://img.shields.io/github/languages/top/rezaadinepour/Vehicle-Distance-Estimation)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rezaadinepour/Vehicle-Distance-Estimation)
 ![GitHub](https://img.shields.io/github/license/rezaadinepour/Vehicle-Distance-Estimation)
+
+In this project we wrote a code to estimate the distance of moving cars.
+
+I use YOLO-V8 pretrained model for detect and recognition of some objects.
 
 
 ## How Run?
