@@ -18,12 +18,5 @@ Go into the cloned project directory and type the following command:
 $ cd Codes/python3 main.py
 ```
 
-## Dataset
-You should put the used photos in <code>images</code> folder.
-
-## Working
-
-or run the <code>main.py</code> on your ide.
-
 ## Result
 ![image](Result/1.png)
