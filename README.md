@@ -5,10 +5,10 @@ In this project we wrote a code to estimate the distance of moving cars
 ## How Run?
 clone the repository
 ```
-$ git clone 
+$ git clone https://github.com/rezaAdinepour/Car-Distance-Estimation.git
 ```
-## requirements
-After clone the repository, run the following command in your Terminal to install the libraries required
+
+run the following command in your Terminal to install the libraries required
 ```
 $ pip3 install -r requirements.txt
 ```
