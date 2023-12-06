@@ -2,6 +2,11 @@
 In this project we wrote a code to estimate the distance of moving cars
 
 
+## How Run?
+clone the repository
+```
+$ git clone 
+```
 ## requirements
 After clone the repository, run the following command in your Terminal to install the libraries required
 ```
