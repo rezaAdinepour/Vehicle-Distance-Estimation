@@ -13,10 +13,7 @@ $ pip3 install -r requirements.txt
 ```
 Go into the cloned project directory and type the following command:
 ```
-cd Codes/
-```
-```
-$ python3 main.py
+$ cd Codes/python3 main.py
 ```
 
 ## Dataset
